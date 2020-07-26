@@ -1,0 +1,21 @@
+welcome to week 2
+If you are reading this, you probably have a decent overview of feature engineering and ML
+This week's assignment is a little tricky but comparitively easier than last time
+
+You have to design 3 functions:
+1. A data cleaning pipeline - you will be given the training data beforehand and all the data cleaning process should be ecompassed in this function.Create the function is such a way that it only takes the input of the name of the file and it outputs a cleaned and ready to work dataframe
+2. An ML model trainer function-a function which when given data in form of x,y returns a trained model
+3. An Ml model tester function- a function which when given test data (x) and actual predictions(y) returns the accuracy and if possible prints a plot of confusion matrix
+
+scoring:
+data visualization of dataset: 2
+creation of function 1: 3
+creation of function 2: 2
+creation if function 3: 3
+
+I believe you guys will get very good accuracy so accuracy holds bonus points if and only if it is in the range of 85 to 95
+
+only training data will be provided and test data will be given while on video call with the team leader and he or his teammate shall present their work.
+
+code is to be submitted by saturday midnight
+date of evaluation will be released soon.
