@@ -1,0 +1,26 @@
+Welcome to the week 1 assignment!!!
+
+We have given you a historical dataset of udemy courses and your task is to create intuitive data visualization and find insights from the dataset.
+
+YOU SHOULD USE THE DATA TO PRESENT HOW THE EDUCATION INDUSTRY AND FIELDS OF STUDY HAVE BEEN IMPACTED OVER THE YEARS.
+
+To be more precise, the task can be further divided into subtasks as:
+1. Clean, analyze and visualize given data set (3 pts)
+2. Correlate with at least 1 other source of data that is not given in the dataset(4 pts). (It need not be a dataset but if you can correlate to how the trend in your dataset reflected in real-world organization or trends, that would be enough.)
+3. Presentation(2 pts)
+4. Uniqueness and aesthetic of plots along with understandability(1pt)
+
+At the end of this week, I expect you guys to send in a PowerPoint presentation or a video along with your code/excel file.
+
+Prerequisites:
+python
+pandas
+NumPy
+seaborn/plotly
+excel
+
+you are free to add more data or use more data based on your choice
+
+please refer to the courses on Kaggle and kernels for help
+
+plagiarism will lead to immediate termination of the entire team
