@@ -1,0 +1,27 @@
+SQL
+https://www.kaggle.com/learn/intro-to-sql
+https://www.kaggle.com/learn/advanced-sql
+PYTHON
+https://www.kaggle.com/learn/python
+DATA WRANGLING
+https://www.kaggle.com/learn/data-visualization
+https://www.kaggle.com/learn/pandas
+https://www.kaggle.com/learn/feature-engineering
+COVARIANCE MATRIX
+https://datascienceplus.com/understanding-the-covariance-matrix/
+CORRELATION MATRIX
+https://www.vertica.com/blog/in-database-machine-learning-2-calculate-a-correlation-matrix-a-data-exploration-post/
+KARL PEARSON COEFF(OPTIONAL)
+https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+histograms
+https://www.mathsisfun.com/data/histograms.html#:~:text=Histograms,many%20fall%20into%20each%20range.
+tricks
+https://towardsdatascience.com/exploratory-data-analysis-eda-techniques-for-kaggle-competition-beginners-be4237c3c3a9
+rolling averages
+https://machinelearningmastery.com/moving-average-smoothing-for-time-series-forecasting-python/
+seaborn
+https://seaborn.pydata.org/introduction.html
+
+extra:
+https://www.youtube.com/watch?v=qQeKEawn_HI
+https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05
